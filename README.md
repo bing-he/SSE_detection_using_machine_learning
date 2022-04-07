@@ -7,9 +7,9 @@ We improved the model by detecting both uplift and subsidence signals.
 
 
 ### Step01: Prepare the synthetic training dataset
-Synthetic data includes noise, down/up ramp synthetic SSE, and linear instrumental drift. ![Figure](/Figures/Synthetic_data)
+Synthetic data includes noise, down/up ramp synthetic SSE, and linear instrumental drift. ![Figure](/Figures/Synthetic_data.png)
 
 ### Step02: Train the machine learning model (SSE detector)
-Training architecture ![architecture](/Figures/Architecture)
+Training architecture ![architecture](/Figures/Architecture.png)
 
 ### Step03: Apply the detector to the real data
