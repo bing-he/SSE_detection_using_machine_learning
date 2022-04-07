@@ -12,6 +12,5 @@ Synthetic data includes noise, down/up ramp synthetic SSE, and linear instrument
 
 
 ### Step02: Train the machine learning model (SSE detector)
-Training architecture ![architecture](/Figures/Architecture.png)
-
+<center><img src=/Figures/Architecture.png width="700" height="800"/></center>
 ### Step03: Apply the detector to the real data
