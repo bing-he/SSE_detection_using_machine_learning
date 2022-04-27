@@ -1,10 +1,13 @@
 ## Detecting Slow Slip Events From Seafloor Pressure Data Using Machine Learning
 A machine learning Detector to automatically detect the Slow Slip Events(SSEs) in long-time seafloor pressure data
-
+<html>
+<body>
 <video width="320" height="240" autoplay>
-  <source src="/Figures/detect_SSE_movie.mp4" type="video/mp4">
+  <source src=/Figures/detect_SSE_movie.mp4 type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</body>
+</html>
 
 The detailed can be found in [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087579). I improved the model by detecting both uplift and subsidence signals.
 
