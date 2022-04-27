@@ -4,6 +4,9 @@ A machine learning Detector to automatically detect the Slow Slip Events(SSEs) i
 <video autoplay loop muted playsinline>
   <source src="/Figures/detect_SSE_movie.mp4" type="video/mp4">
 </video>
+<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+  <source src="/Figures/detect_SSE_movie.mp4" type="video/mp4">
+</video>
 
 https://user-images.githubusercontent.com/41640721/165635960-6a0cc986-7272-4979-a39d-05323776fb4a.mp4
 
