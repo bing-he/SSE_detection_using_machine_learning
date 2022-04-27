@@ -6,7 +6,7 @@ A machine learning Detector to automatically detect the Slow Slip Events(SSEs) i
   <source src="https://user-images.githubusercontent.com/41640721/165635960-6a0cc986-7272-4979-a39d-05323776fb4a.mp4" type="video/mp4">
 </video>
 
-(https://user-images.githubusercontent.com/41640721/165635960-6a0cc986-7272-4979-a39d-05323776fb4a.mp4)
+https://user-images.githubusercontent.com/41640721/165635960-6a0cc986-7272-4979-a39d-05323776fb4a.mp4
 
 The detailed can be found in [paper](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020GL087579). I improved the model by detecting both uplift and subsidence signals.
 
